@@ -34,10 +34,6 @@ My goal is to contribute to open-source initiatives and impactful AI/ML projects
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fssohamgore&subtitle=%40ssohamgore&size=square&rounded=24" alt="Twitter" width="150">
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.instagram.com/ssoham.jpg">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fsoham.pixl&subtitle=%40ssoham.jpg&size=square&rounded=24" alt="Instagram" width="150">
-  </a>&nbsp;&nbsp;&nbsp;
-
   <a href="https://github.com/debug-soham">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fdebug-soham&subtitle=%2Fdebug-soham&size=square&rounded=24" alt="GitHub" width="150">
   </a>
