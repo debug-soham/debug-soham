@@ -1,5 +1,5 @@
-# Hey, I'm Soham! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-<img src="https://profile-readme-generator.com/assets/pacman.svg" style="pointer-events: none; cursor: default;">
+<!--- # Hey, I'm Soham! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
+<img src="Resources/GitHub-Banner-V1.jpg">
 
 ## About me:
 I am a second-year student in Electronics and Computer Engineering at KJ Somaiya School of Engineering, Mumbai, currently interning in applied machine learning roles. I’m proficient in Python, Scikit-learn, and core machine learning techniques - specializing in model development, evaluation, and feature engineering. I have a strong foundation in supervised learning, with growing experience in hyperparameter tuning, cross-validation, and real-world model deployment workflows. I’m also exploring MLOps, continuous training pipelines, and modern deployment stacks.
