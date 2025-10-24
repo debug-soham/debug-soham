@@ -6,17 +6,17 @@ I am a second-year student in Electronics and Computer Engineering at KJ Somaiya
 
 My goal is to contribute to open-source initiatives and impactful AI/ML projects focused on real-world, data-driven solutions.
 
-### 🛠️ What I'm building toward
+### What I'm building toward
 - MLOps fundamentals (Docker, CI/CD, model versioning)  
 - Cloud-native deployment
 - Open-source contribution workflows (issues, PRs, Git strategies)
 
-### 🚀 Actively looking to contribute to  
+### Actively looking to contribute to  
 - ML/AI research-backed projects  
 - Open-source repositories in data science or MLOps  
 - Hackathons, collaborations, and innovative proof-of-concepts
 
-🤝 Feel free to reach out!
+Feel free to reach out!
 
 ## Socials:
 <p align="center">
